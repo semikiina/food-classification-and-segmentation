@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+
+datasets
+huggingface-hub
+
+numpy
+opencv-python
+scikit-image
+Pillow
+
+tqdm
+
+# optional but recommended
+matplotlib
